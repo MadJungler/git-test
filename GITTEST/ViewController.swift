@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
 let hello = "hello world!"
+let goodbye = "goodbye world!"
     
     override func viewDidLoad() {
         super.viewDidLoad()
